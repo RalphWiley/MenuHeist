@@ -1,0 +1,2 @@
+/// To watch sass
+sass --watch src/sass:assets/css

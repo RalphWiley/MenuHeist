@@ -1,5 +1,19 @@
 body {
-  background-color: #CF4646;
+  background-color: #CF4646 !important;
+}
+
+.jumbotron {
+  background-color: #CF4646 !important;
+}
+
+.title {
+  font-family: "Marck Script", cursive;
+  font-size: 120px;
+  color: #F3E0DC;
+}
+
+.addColor {
+  color: #F3E0DC;
 }
 
 /*# sourceMappingURL=styles.css.map */

@@ -1,3 +1,22 @@
+@import 'fonts/fonts.scss';
+
+$background-color: #CF4646 !important;
+$secondary-color: #F3E0DC;
+
 body {
-    background-color: #CF4646;
+    background-color: $background-color;
+}
+
+.jumbotron {
+    background-color: $background-color;
+}
+
+.title {
+    font-family: $font-heading;
+    font-size: 120px;
+    color: $secondary-color;
+}
+
+.addColor {
+    color: $secondary-color;
 }
